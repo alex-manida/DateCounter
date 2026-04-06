@@ -1,0 +1,19 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <!-- Dark Theme -->
+    <style name="Theme.DateCounter" parent="Theme.Material3.Dark.NoActionBar">
+
+        <!-- Primary colors -->
+        <item name="colorPrimary">#60A5FA</item>
+        <item name="colorOnPrimary">#020617</item>
+
+        <!-- Background -->
+        <item name="android:windowBackground">#020617</item>
+
+        <!-- Status bar -->
+        <item name="android:statusBarColor">#020617</item>
+        <item name="android:windowLightStatusBar">false</item>
+
+    </style>
+
+</resources>

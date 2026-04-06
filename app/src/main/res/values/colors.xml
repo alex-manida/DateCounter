@@ -1,0 +1,6 @@
+<resources>
+    <color name="bg_main">#FFFFFF</color>
+    <color name="text_primary">#000000</color>
+    <color name="toolbar_bg">#4CAF50</color>
+    <color name="button_bg">#4CAF50</color>
+</resources>
